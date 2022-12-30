@@ -1,3 +1,11 @@
 this is merge conflict file added
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+this is new change done from main branch
+=======
+this chnge done from dev branch
+>>>>>>> dev
+=======
 this change is done from both dev and main branch
+>>>>>>> 48296f111f1f14188e4a654cff433ff2374cffe6
