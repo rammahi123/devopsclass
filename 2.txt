@@ -1,5 +1,3 @@
 this is fileb added in the folder
 
 new change to the file 2.txt
-
-this is an additional change to 2.txt
